@@ -22,3 +22,5 @@ Each of these parts can be used independently, depending on the task:
 - **Decoder-only models:** Good for generative tasks such as text generation.
 
 - **Encoder-decoder models or sequence-to-sequence models:** Good for generative tasks that require an input, such as translation or summarization.
+
+More Details [click here](https://huggingface.co/course/chapter1/4?fw=pt)
